@@ -7,7 +7,7 @@
 
 - :robot: I've been active in the gaming industry for the past 1 year as a Game Developer, with experience working at  hypercasual  studio. I develop games using the Unity game engine and C#..
 
-- 🛠️ Over the past 1.5 years, I've been focusing on improving my Unity skills and creating tools and assets.
+- 🛠️ Over the past 1 year, I've been focusing on improving my Unity skills and creating tools and assets.
 
 - :telescope: I keep up with technological advancements and constantly strive to improve my skills in other areas as well.
 
