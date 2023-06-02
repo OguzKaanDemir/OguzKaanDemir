@@ -1,7 +1,7 @@
 ![KaanDemir](https://user-images.githubusercontent.com/80393390/230047100-402bec5b-8cbf-4a9d-887f-b1bc5024ddc2.gif)
 
 <h1 align="center">Hi 👋, I'm Oğuz Kaan</h1>
-<h3 align="center">I'm a Game Developer</h3>
+<h3 align="center">I'm a Unity Game Developer</h3>
 
 - :rocket: I've been developing various projects for about 4 years due to my curiosity in programming and technology.
 
